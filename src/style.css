@@ -67,6 +67,9 @@ header {
   .weather-app-icon {
     width: 88px;
     height: 88px;
+    display: block;
+    margin: 0 auto;
+   
 }
   
   .weather-app-temperature {
@@ -109,7 +112,7 @@ header {
   .weather-forecast-temperature {
     padding: 0 10px;
   }
-  
+
 footer {
     border-top: 1px solid #f9f7fe;
     padding: 30px 0 0 0;
